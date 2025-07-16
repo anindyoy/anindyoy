@@ -24,7 +24,7 @@ I'm a web developer focused on back-end technology, especially using **PHP** and
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anindyoy&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
-Lets play snake games with me!
+<!-- Lets play snake games with me!
 ###
 <img src="https://raw.githubusercontent.com/anindyoy/anindyoy/output/snake.svg" alt="Snake animation" />
 
@@ -37,6 +37,6 @@ Lets play snake games with me!
 </picture>
 
 ###
-###
+### -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
