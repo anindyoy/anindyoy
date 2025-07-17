@@ -27,13 +27,6 @@ I'm a web developer focused on back-end technology, especially using **PHP** and
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,php,laravel,postman,mysql)](https://skillicons.dev)
 
----
-
-### 🚀 Featured Projects
-
-- [Project 1]: Brief description of the project, e.g. "Task management application built with Laravel and Vue.js."
-- [Project 2]: This project showcases my expertise in API integration.
-- [Project 3]: A case study on e-commerce development with Laravel.
 
 ---
 

@@ -18,6 +18,16 @@ I'm a web developer focused on back-end technology, especially using **PHP** and
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=anindyoy&theme=dark&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anindyoy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+### 🚀 Featured Projects
+
+- [Sidonat](https://sidonat.demo.anindyo.id): A Laravel-based donation management platform for social organizations and donors. It uses Filament for admin panels, TailwindCSS for styling, Alpine.js and Livewire for interactivity. The codebase is modular, with clear separation between domain logic, UI, and infrastructure.
+- [HRM](https://hrm.demo.anindyo.id): A human resource management (HRM) system used to manage data on employees, activities, attendance, and more. The application is built using Laravel and also utilizes additional libraries such as Livewire, Filament, and Telescope.
+<!-- - [Project 3]: A case study on e-commerce development with Laravel. -->
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
