@@ -22,8 +22,12 @@ I'm a web developer focused on back-end technology, especially using **PHP** and
 
 ### 🚀 Featured Projects
 
-- [Sidonat](https://sidonat.demo.anindyo.id): A Laravel-based donation management platform for social organizations and donors. It uses Filament for admin panels, TailwindCSS for styling, Alpine.js and Livewire for interactivity. The codebase is modular, with clear separation between domain logic, UI, and infrastructure.
-- [HRM](https://hrm.demo.anindyo.id): A human resource management (HRM) system used to manage data on employees, activities, attendance, and more. The application is built using Laravel and also utilizes additional libraries such as Livewire, Filament, and Telescope.
+- Admin panel for viewing and managing various data, including user authentication, data reporting and  filtering using PHP Laravel, Livewire, Filament, and Alpine.js:
+  - [Sidonat](https://sidonat.demo.anindyo.id): A platform for managing donation campaigns and fundraising activities, allowing organizations to create, track, and optimize various donation initiatives. It includes features for user authentication, campaign management, donor history, and integration with external services for notifications and payments.
+  - [HRM](https://hrm.demo.anindyo.id): A Human Resource Management (HRM) application. The system is equipped to handle date-based information, which is essential for tracking and reporting on employee-related activities.
+  - [Distribusi](https://distribusi.demo.anindyo.id): A distribution management system for goods to various institutions and recipients, featuring reporting, recapitulation, and logistics/stock management, monthly distribution reports, and management of entities like goods, institutions, vehicles, and recipients.
+
+
 <!-- - [Project 3]: A case study on e-commerce development with Laravel. -->
 
 ---
